@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+= Taha Yusuf Ceritli 
+
+Welcome to my website! \n
+
+I am a Ph.D. student at [https://www.turing.ac.uk The Alan Turing Institute (ATI)] and the University of Edinburgh. I am supervised by [http://homepages.inf.ed.ac.uk/ckiw/ Prof. Chris Williams]. Previously, I was a Research Assistant at [http://www.cmpe.boun.edu.tr/pilab/doku.php Perceptual Intelligence Laboratory (PILAB)] at Department of Computer Engineering of Bogazici University, under the supervision of [http://www.cmpe.boun.edu.tr/~cemgil/ Assoc. Prof. A. Taylan Cemgil].
+
+== Research Interests
+I am interested in Statistical Machine Learning. Currently, my research is focused on automatizing data wrangling process using machine learning.
+
+You can find my M.S. thesis here\[ [papers/ms-thesis.pdf pdf] \].
+
+== Education
+- Ph.D. (2021, estimated)  \n [http://www.anc.ed.ac.uk/ Institute for Adaptive and Neural Computation] \n University of Edinburgh, Edinburgh, UK
+- M.S. (2017)  \n [http://www.cse.boun.edu.tr/ Computational Science and Engineering] \n Bogazici University, Istanbul, Turkey
+- B.S. (2015)  			  \n 	[http://www.ee.boun.edu.tr/ Electrical & Electronics Engineering] \n Bogazici University, Istanbul, Turkey 
+
+== Links
+- [https://scholar.google.com.tr/citations?user=8qxNLQEAAAAJ&hl=tr/ Google Scholar] 
+- [https://github.com/tahaceritli/ Github] 
