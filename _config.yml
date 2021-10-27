@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taha Ceritli"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Taha Ceritli"
 description              : &description "Postdoctoral Research Assistant at the University of Oxford"
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taha Ceritli"
+  name             : "Taha Ceritli <br /> (Ta-ha Je-rit-li)"
   avatar           : "profile.png"
   bio              : "Postdoctoral Research Assistant at the University of Oxford"
   location         : "Oxford, UK"
-  employer         :
+  employer         : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=8qxNLQEAAAAJ&hl=tr&oi=ao"
   email            : "taha.ceritli@eng.ox.ac.uk"
   uri              :
