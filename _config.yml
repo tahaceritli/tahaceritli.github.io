@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Taha Ceritli"
 title_separator          : "-"
 name                     : &name "Taha Ceritli"
-description              : &description "Ph.D. Student at the University of Edinburgh/The Alan Turing Institute"
+description              : &description "Postdoctoral Research Assistant at the University of Oxford"
 url                      : https://tahaceritli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tahaceritli.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Taha Ceritli"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at the Alan Turing Institute and the University of Edinburgh"
-  location         : "London, UK"
+  bio              : "Postdoctoral Research Assistant at the University of Oxford"
+  location         : "Oxford, UK"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=8qxNLQEAAAAJ&hl=tr&oi=ao"
-  email            : "t.y.ceritli@sms.ed.ac.uk"
+  email            : "taha.ceritli@eng.ox.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5059-8421"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
