@@ -2,7 +2,7 @@
 title: "Bundling Additional Files into Python Packages"
 date: 2021-10-28
 permalink: /blog/2021/10/bundling-files/
-layout: archive
+layout: single
 author_profile: true
 tags:
   - python
