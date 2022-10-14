@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Mixture of Input-Output Hidden Markov Models for Heterogeneous Disease Progression Modeling** [[<span style="color:#337ab7">`pdf`</span>](https://proceedings.mlr.press/v184/ceritli22a/ceritli22a.pdf), [<span style="color:#337ab7">`code`</span>](https://github.com/tahaceritli/mIOHMM)]\
+Taha Ceritli, Andrew P. Creagh, David A. Clifton. Proceedings of the 1 st Workshop on Healthcare AI and COVID-19, ICML (2022).
+
 **Identifying the Units of Measurement in Tabular Data** [[<span style="color:#337ab7">`pdf`</span>](https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F3%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRWVKT0N0TFBMTHRJcEJkREl0MHBDSjhCTWZEZ3BBNS05OWJYSzhCU2htYlM2UT9ydGltZT1NMjlHUGphWjJVZw), [<span style="color:#337ab7">`code`</span>](https://github.com/tahaceritli/puc)]\
 Taha Ceritli, Christopher K. I. Williams. Presented at the ECML-PKDD Workshop on Automating Data Science (2021).
 
