@@ -4,9 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**A Study of Parameter Efficient Fine-Tuning by Learning to Efficiently Fine-Tune**\
+Taha Ceritli, Savaş Özkan, Jeongwon Min, Eunchung Noh, Cho Jung Min, Mete Özay\
+EMNLP (2024).
+
 **Mode Connections For Clinical Incremental Learning: Lessons From The COVID-19 Pandemic**\
-Anshuk Thakur, Chenyang Wang, Taha Ceritli, David Eyre, David A. Clifton.\
-Machine Learning & Global Health Workshop, ICLR (2023)
+Anshuk Thakur, Chenyang Wang, Taha Ceritli, David Eyre, David A. Clifton\
+Machine Learning & Global Health Workshop, ICLR (2023).
 
 **Synthesizing Mixed-type Electronic Health Records using Diffusion Models** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2302.14679.pdf)]\
 Taha Ceritli, Ghadeer O. Ghosheh, Vinod Kumar Chauhan, Tingting Zhu, Andrew P. Creagh, and David A. Clifton.
