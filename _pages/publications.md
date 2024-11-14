@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2410.08305)]\
-Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Taha Ceritli, Hayder Elesedy, Mete Özay, Peter Richtárik
+Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Taha Ceritli, Hayder Elesedy, Mete Özay, Peter Richtárik\
 Submitted to ICLR (2025).
 
 **A Study of Parameter Efficient Fine-Tuning by Learning to Efficiently Fine-Tune** [[<span style="color:#337ab7">`pdf`</span>](https://aclanthology.org/2024.findings-emnlp.929.pdf)]\
