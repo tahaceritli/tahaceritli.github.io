@@ -8,7 +8,7 @@ author_profile: true
 Taha Ceritli, Savaş Özkan, Jeongwon Min, Eunchung Noh, Cho Jung Min, Mete Özay\
 EMNLP (2024).
 
-**Mode Connections For Clinical Incremental Learning: Lessons From The COVID-19 Pandemic**\
+**Mode Connections For Clinical Incremental Learning: Lessons From The COVID-19 Pandemic** [[<span style="color:#337ab7">`pdf`</span>](https://openreview.net/pdf?id=vWhEwRemyo)]\
 Anshuk Thakur, Chenyang Wang, Taha Ceritli, David Eyre, David A. Clifton\
 Machine Learning & Global Health Workshop, ICLR (2023).
 
