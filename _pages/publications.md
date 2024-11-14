@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**A Study of Parameter Efficient Fine-Tuning by Learning to Efficiently Fine-Tune**\
+**A Study of Parameter Efficient Fine-Tuning by Learning to Efficiently Fine-Tune** [[<span style="color:#337ab7">`pdf`</span>](https://aclanthology.org/2024.findings-emnlp.929.pdf)]\
 Taha Ceritli, Savaş Özkan, Jeongwon Min, Eunchung Noh, Cho Jung Min, Mete Özay\
 EMNLP (2024).
 
