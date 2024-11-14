@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation
-** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2410.08305)]\
+**Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2410.08305)]\
 Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Taha Ceritli, Hayder Elesedy, Mete Özay, Peter Richtárik
 Submitted to ICLR (2025).
 
