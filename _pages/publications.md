@@ -8,13 +8,13 @@ author_profile: true
 Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Taha Ceritli, Hayder Elesedy, Mete Özay, Peter Richtárik\
 Submitted to ICLR (2025).
 
-**A Study of Parameter Efficient Fine-Tuning by Learning to Efficiently Fine-Tune** [[<span style="color:#337ab7">`pdf`</span>](https://aclanthology.org/2024.findings-emnlp.929.pdf)]\
-Taha Ceritli, Savaş Özkan, Jeongwon Min, Eunchung Noh, Cho Jung Min, Mete Özay\
-EMNLP (2024).
-
 **Hyper-Refinement for Low-Rank Adaptation**\
 Savaş Özkan, Taha Ceritli, Jeongwon Min, Eunchung Noh, Cho Jung Min, Dookun Park, Mete Özay\
 ICASSP (2025).
+
+**A Study of Parameter Efficient Fine-Tuning by Learning to Efficiently Fine-Tune** [[<span style="color:#337ab7">`pdf`</span>](https://aclanthology.org/2024.findings-emnlp.929.pdf)]\
+Taha Ceritli, Savaş Özkan, Jeongwon Min, Eunchung Noh, Cho Jung Min, Mete Özay\
+EMNLP (2024).
 
 **Mode Connections For Clinical Incremental Learning: Lessons From The COVID-19 Pandemic** [[<span style="color:#337ab7">`pdf`</span>](https://openreview.net/pdf?id=vWhEwRemyo)]\
 Anshuk Thakur, Chenyang Wang, Taha Ceritli, David Eyre, David A. Clifton\
