@@ -8,7 +8,7 @@ author_profile: true
 Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Taha Ceritli, Hayder Elesedy, Mete Özay, Peter Richtárik\
 Submitted to ICLR (2025).
 
-**Hyper-Refinement for Low-Rank Adaptation** [[<span style="color:#337ab7">`pdf`</span>](https://ieeexplore.ieee.org/document/10888301)] \ 
+**Hyper-Refinement for Low-Rank Adaptation** [[<span style="color:#337ab7">`pdf`</span>](https://ieeexplore.ieee.org/document/10888301)]\
 Savaş Özkan, Taha Ceritli, Jeongwon Min, Eunchung Noh, Cho Jung Min, Dookun Park, Mete Özay\
 ICASSP (2025).
 
