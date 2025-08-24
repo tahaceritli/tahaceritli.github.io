@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2507.17706)]\
+Taha Ceritli, Ondrej Bohdal, Mete Ozay, Jijoong Moon, Kyeng-Hun Lee, Hyeonmok Ko, Umberto Michieli\
+EMNLP (2025).
+
 **Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2410.08305)]\
 Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Taha Ceritli, Hayder Elesedy, Mete Özay, Peter Richtárik\
 Submitted to ICLR (2025).
