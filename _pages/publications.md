@@ -8,13 +8,13 @@ author_profile: true
 Junyi Zhu, Ruicong Yao, Taha Ceritli, Savas Ozkan, Matthew B Blaschko, Eunchung Noh, Jeongwon Min, Cho Jung Min, Mete Ozay\
 WACV (2026).
 
-**CG-TTRL: Context-guided Test-time Reinforcement Learning for On-device Large Language Models** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2510.13537)]\
+**CG-TTRL: Context-guided Test-time Reinforcement Learning for On-device Large Language Models** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2511.06430)]\
 Peyman Hosseini, Ondrej Bohdal, Taha Ceritli, Ignacio Castro, Matthew Purver, Mete Ozay, Umberto Michieli\
-arXiv (2025).
+Under Review (2025).
 
 **K-Merge: Online Continual Merging of Adapters for On-device Large Language Models** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2510.13537)]\
 Donald Shenaj, Ondrej Bohdal, Taha Ceritli, Mete Ozay, Pietro Zanuttigh, Umberto Michieli\
-arXiv (2025).
+Under Review (2025).
 
 **HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2507.17706)]\
 Taha Ceritli, Ondrej Bohdal, Mete Ozay, Jijoong Moon, Kyeng-Hun Lee, Hyeonmok Ko, Umberto Michieli\
@@ -22,7 +22,7 @@ EMNLP (2025).
 
 **Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2410.08305)]\
 Grigory Malinovsky, Umberto Michieli, Hasan Abed Al Kader Hammoud, Taha Ceritli, Hayder Elesedy, Mete Özay, Peter Richtárik\
-Submitted to ICLR (2025).
+Under Review (2025).
 
 **Hyper-Refinement for Low-Rank Adaptation** [[<span style="color:#337ab7">`pdf`</span>](https://ieeexplore.ieee.org/document/10888301)]\
 Savaş Özkan, Taha Ceritli, Jeongwon Min, Eunchung Noh, Cho Jung Min, Dookun Park, Mete Özay\
