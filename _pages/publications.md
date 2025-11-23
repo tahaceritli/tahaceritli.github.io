@@ -4,6 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Unlocking the Value of Decentralized Data: A Federated Dual Learning Approach for Model Aggregation** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2503.20138)]\
+Junyi Zhu, Ruicong Yao, Taha Ceritli, Savas Ozkan, Matthew B Blaschko, Eunchung Noh, Jeongwon Min, Cho Jung Min, Mete Ozay\
+WACV (2026).
+
+**CG-TTRL: Context-guided Test-time Reinforcement Learning for On-device Large Language Models** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2510.13537)]\
+Peyman Hosseini, Ondrej Bohdal, Taha Ceritli, Ignacio Castro, Matthew Purver, Mete Ozay, Umberto Michieli\
+arXiv (2025).
+
+**K-Merge: Online Continual Merging of Adapters for On-device Large Language Models** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2510.13537)]\
+Donald Shenaj, Ondrej Bohdal, Taha Ceritli, Mete Ozay, Pietro Zanuttigh, Umberto Michieli\
+arXiv (2025).
+
 **HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2507.17706)]\
 Taha Ceritli, Ondrej Bohdal, Mete Ozay, Jijoong Moon, Kyeng-Hun Lee, Hyeonmok Ko, Umberto Michieli\
 EMNLP (2025).
