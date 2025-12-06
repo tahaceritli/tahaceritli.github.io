@@ -8,6 +8,10 @@ author_profile: true
 Junyi Zhu, Ruicong Yao, Taha Ceritli, Savas Ozkan, Matthew B Blaschko, Eunchung Noh, Jeongwon Min, Cho Jung Min, Mete Ozay\
 WACV (2026).
 
+**MemLoRA: Distilling Expert Adapters for On-Device Memory Systems** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2512.04763v1)]\
+Massimo Bini, Ondrej Bohdal, Umberto Michieli, Zeynep Akata, Mete Ozay, Taha Ceritli\
+Under Review (2025).
+
 **CG-TTRL: Context-guided Test-time Reinforcement Learning for On-device Large Language Models** [[<span style="color:#337ab7">`pdf`</span>](https://arxiv.org/pdf/2511.06430)]\
 Peyman Hosseini, Ondrej Bohdal, Taha Ceritli, Ignacio Castro, Matthew Purver, Mete Ozay, Umberto Michieli\
 Under Review (2025).

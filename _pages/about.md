@@ -9,7 +9,7 @@ I am a Senior ML Researcher at Samsung Research UK, leading the Personalized AI 
 - continual learning to train models progressively over time (see our work on continual model merging [arXiv'25](https://arxiv.org/pdf/2510.13537)),
 - test-time reinforcement learning for unsupervised adaptation of LLMs (e.g., see our work [arXiv'25](https://arxiv.org/pdf/2511.06430))
 - model compression techniques (e.g., quantization, pruning, and knowledge distillation) to reduce the footprint of LLMs,
-- memory systems for personalization of LLMs.
+- memory systems for personalization of LLMs (e.g., see our work [arXiv'25](https://arxiv.org/pdf/2512.04763v1)).
 
 Previously, I was as a Postdoctoral Research Assistant in the [Computational Health Informatics](https://eng.ox.ac.uk/chi) group at the University of Oxford, led by [Prof. David A. Clifton](https://eng.ox.ac.uk/people/david-clifton), where I worked on developing generative models for healthcare, particularly for [disease progression modeling](https://proceedings.mlr.press/v184/ceritli22a/ceritli22a.pdf) and [synthetically generating electronic health records (EHRs)](https://arxiv.org/pdf/2302.14679.pdf).
 
